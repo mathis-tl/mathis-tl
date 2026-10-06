@@ -1,7 +1,7 @@
 ## Mathis Telle
 
 Ingénieur informatique, **Université Paris-Saclay (ISTY)**.
-**Data engineer**, profil polyvalent : pipelines de données, backend, sécurité, réseaux, outils front.
+**Orienté data engeneering**, profil polyvalent : pipelines de données, backend, sécurité, réseaux, outils front.
 Ce qui revient d'un projet à l'autre : des systèmes testés, qui signalent leurs cas douteux
 plutôt que de les masquer.
 
